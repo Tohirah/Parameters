@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\bin\Debug\net5.0\Methods.exe
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\bin\Debug\net5.0\Methods.deps.json
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\bin\Debug\net5.0\Methods.dll
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\bin\Debug\net5.0\ref\Methods.dll
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\bin\Debug\net5.0\Methods.pdb
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\obj\Debug\net5.0\Methods.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\obj\Debug\net5.0\Methods.dll
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\obj\Debug\net5.0\ref\Methods.dll
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\obj\Debug\net5.0\Methods.pdb
+C:\Users\Owner\Desktop\CLH\Second Class\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache
